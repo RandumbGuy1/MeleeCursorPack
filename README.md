@@ -1,7 +1,7 @@
 # The Melee Cursor Pack
 Basic cursor pack for Windows 10/11 themed around Super Smash Bros. Melee
 
-## How to Use (Windows 11):
+## How to Use (Windows 11)
 - Download the Melee Cursor pack .zip
 - Go to Settings > Accessibility > Mouse Pointer and touch > Customize Pointer Image
 - Remap all cursors to the .cur file corresponding to their name
@@ -40,7 +40,7 @@ Basic cursor pack for Windows 10/11 themed around Super Smash Bros. Melee
 - **Move/resize:** Geometric center of the icon.
 
 
-## Future Features:
+## Future Features
 - Dark and Light Mode Cursor Outlines
 - Multi-Color support
 - Non-Pixelated Version
