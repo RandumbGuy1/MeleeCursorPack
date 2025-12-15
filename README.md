@@ -14,21 +14,21 @@ Basic cursor pack for Windows 10/11 themed around Super Smash Bros. Melee
 - **Precision:** Hotspots matched to Windows defaults to avoid misclicks.
 
 ## Included cursors
-- **Normal Select**
-- **Text Select**
-- **Link Select**
-- **Busy**
-- **Vertical Resize**
-- **Horizontal Resize**
-- **Diagonal Resize 1**
-- **Diagonal Resize 2**
-- **Move**
-- **Help Select**
-- **Unavailable**
-- **Working in Background**
-- **Alternate Select**
-- **Precision Select**
-- **Pen**
+- **Normal Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Alternate%20Select.png)
+- **Text Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Text%20Select.png)
+- **Link Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Link%20Select.png)
+- **Busy** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Busy.png)
+- **Vertical Resize** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Vertical%20Resize.png)
+- **Horizontal Resize** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Horizontal%20Resize.png)
+- **Diagonal Resize 1** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Diagonal%20Resize%201.png)
+- **Diagonal Resize 2** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Diagonal%20Resize%202.png)
+- **Move** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Move.png)
+- **Help Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Help%20Select.png)
+- **Unavailable** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Unavailable.png)
+- **Working in Background** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Working%20in%20Background.png)
+- **Alternate Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Alternate%20Select.png)
+- **Precision Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Precision%20Select.png)
+- **Pen** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Pen.png)
 
 
 ## Hotspot alignment reference
