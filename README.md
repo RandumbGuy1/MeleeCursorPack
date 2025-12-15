@@ -14,7 +14,7 @@ Basic cursor pack for Windows 10/11 themed around Super Smash Bros. Melee
 - **Precision:** Hotspots matched to Windows defaults to avoid misclicks.
 
 ## Included cursors
-- **Normal Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Alternate%20Select.png)
+- **Normal Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Normal%20Select.png)
 - **Text Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Text%20Select.png)
 - **Link Select** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Link%20Select.png)
 - **Busy** ![alt text](https://github.com/RandumbGuy1/MeleeCursorPack/blob/main/Melee%20Cursor%20Images/Busy.png)
