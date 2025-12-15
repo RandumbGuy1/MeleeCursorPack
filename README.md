@@ -39,3 +39,8 @@ Basic cursor pack for Windows 10/11 themed around Super Smash Bros. Melee
 - **Unavailable:** Exact center of the circle.
 - **Move/resize:** Geometric center of the icon.
 
+
+## Future Features:
+- Dark and Light Mode Cursor Outlines
+- Multi-Color support
+- Non-Pixelated Version
